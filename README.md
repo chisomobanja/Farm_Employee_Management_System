@@ -1,6 +1,9 @@
 # Farm Employee Management System
 ### This repo contains a final year project, a farm management system build using a pern stack
 
+Requirements:
+Docker must be installed on your device
+
 To run this, please edit the .env to match your env variables
 And then use 
 ```
